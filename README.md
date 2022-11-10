@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Getting Started with Create React App [Math Magicians: Setup]
+# Create React App
 
 ### Learning Objectives
 - Set up a React app.
 - Use React documentation.
 
 ### Description
-This is the first project of the Math Magicians application. Setting up the environment and tools needed to develop a React application.
+This applications lets you create, update, Delete and Manage all your todo's
 
 ### General requirements
 - No [linter errors](https://github.com/microverseinc/linters-config).
@@ -43,16 +43,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kasaija-Kenneth/MathMagiciansApp/issues).
+Feel free to check the [issues page]().
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- [Osong Agberndifor] (https://www.loom.com/share/c97732a88b604a4cac489f8af7f1e2e9) whose loom walk through video clip made the installation much easier.
-
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
